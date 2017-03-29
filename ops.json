@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "55ded732-4f94-3f8b-83be-a7afc5e54d67",
+    "name": "cookie",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "af96d175-0b62-3fdc-8af8-c9fb45274d90",
+    "name": "Evoke",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

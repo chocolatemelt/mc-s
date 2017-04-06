@@ -1,5 +1,5 @@
 {
-    "repositoryRoot": "D:/MC-S/libraries",
+    "repositoryRoot": "/home/zhang/Git/mc-s/libraries",
     "modRef": [
         "net.minecraftforge:MercuriusUpdater:1.11.2"
     ]

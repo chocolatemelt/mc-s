@@ -1,6 +1,6 @@
 {
-    "repositoryRoot": "/home/zhang/Git/mc-s/./libraries",
+    "repositoryRoot": "/home/zhang/Git/mc-s/libraries",
     "modRef": [
-        "net.minecraftforge:MercuriusUpdater:1.12"
+        "net.minecraftforge:MercuriusUpdater:1.11.2"
     ]
 }
